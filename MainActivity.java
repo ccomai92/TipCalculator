@@ -1,7 +1,7 @@
 // MainActivity.java
 // Calculates a bill total based on a tip percentage
 package com.kwon.k.tipcalculator;
-
+// adding comment
 import android.support.v7.app.AppCompatActivity; // base class (API Level)
 import android.os.Bundle; // for saving (in the user interface) state information (onCreate method)
 import android.text.Editable; // for EditText event handling
